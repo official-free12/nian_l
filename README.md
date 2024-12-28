@@ -1,0 +1,6 @@
+# 2024年 币币交易+C2C交易/交易/持币分红/锁仓生息/机器人交易/上币投票/交易所，
+
+系统完美可运营，源码可以封装APP！<br>测试账号 13686666352 密码 123456<br>源码说明：<br>example.com、wap端；均有高端k线和委托档位，app端一键封装（不是原生java代码编译版本，app分发软件打包）。<br>example.com（银行卡），规避平台充值提现和退市风险。<br>example.com，方便做市造势。<br>example.com、认购IEO锁仓机制、分红功能、定期释放，理财功能、持币生息，新币投票，支持交易。<br>example.com，方便快速成交。<br>example.com，开源无加密便于二次开发。<br>example.com：<br>1、币币交易机器人运行效率优化。<br>2、币币交易撮合机制优化。<br>example.com：<br>1、手机端部分功能完善<br>2、原始数据库优化。<br>example.com：<br>1、IEO项目认购到期。<br>2、邀请注册会员三级推荐奖励功能完善，便于项目推广。<br>example.com，后面重新开发 手动充值 减少钱包服务器成本，同时也支持自动充值 自动提现 按客户需求。<br>更多时间段浏览行情趋势更直观。<br>本产品版本是无加密开源完整版本<br>客户必须【需要准备的东西】<br>1：云服务器一个【推荐阿里云、配置基本要求2核4G带宽3M即可、（也可自选配置）】<br>2：域名一个<br>安装说明：<br>详细见压缩包，有简单配置教程<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/4Oat3" style="color: red;">https://mega-file.org/4Oat3</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
